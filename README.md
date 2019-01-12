@@ -62,20 +62,16 @@ NOTE: Add Photos & Videos in the Media Folder.
 ***Example path to send goodmorning image to your listed Contacts.***
 
 ***"hour1" variable is used to check current Hour on the clock and according image is sent to the Contact.***
-      
-If time is after 6 and before 11am schedule goodmorning.jpg image.
-     
-If time is after 9pm schedule goodnight image.
-      
-If time is anyother send howareyou image.
-      
-You can set your own photos at a particular time feel free to do that.
+- If time is after 6 and before 11am schedule goodmorning.jpg image.
+- If time is after 9pm schedule goodnight image.
+- If time is anyother send howareyou image.
+- You can set your own photos at a particular time feel free to do that.
 
 **sending_files():**
 
 NOTE: Add the document in the documents folder.
 
-Would you file to send a Document file(yes/no): yes
+- Would you file to send a Document file(yes/no): yes
 
 >Enter the Document file name you want to send: attendance
 >If the document file names are same then write the document name with extension attendance.txt or attendance.pdf
