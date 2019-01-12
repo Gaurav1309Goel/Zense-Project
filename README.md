@@ -75,3 +75,15 @@ NOTE: Add the document in the documents folder.
 
 >Enter the Document file name you want to send: attendance
 >If the document file names are same then write the document name with extension attendance.txt or attendance.pdf
+
+**Schedule Message and Attachments:**
+
+schedule.every().Monday.at("06:00").do(sender)
+
+schedule.every().Tuesday.at("07:00").do(sender)
+
+schedule.every().Friday.at("07:30").do(sender)
+
+schedule.every().day.at("08:30").do(sender)
+
+- You can make change these schedule days and time according to you. 
