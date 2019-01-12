@@ -59,9 +59,10 @@ NOTE: Add Photos & Videos in the Media Folder.
 
 >image_path = os.getcwd() +"\Media\" + 'goodmorning.jpg'
 
-***Example path to send goodmorning image to your listed Contacts.***
+Example path to send goodmorning image to your listed Contacts.
 
-***"hour1" variable is used to check current Hour on the clock and according image is sent to the Contact.***
+"hour1" variable is used to check current Hour on the clock and according image is sent to the Contact.
+
 - If time is after 6 and before 11am schedule goodmorning.jpg image.
 - If time is after 9pm schedule goodnight image.
 - If time is anyother send howareyou image.
