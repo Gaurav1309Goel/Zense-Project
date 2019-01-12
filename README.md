@@ -70,12 +70,12 @@ If time is after 9pm schedule goodnight image.
 If time is anyother send howareyou image.
       
 You can set your own photos at a particular time feel free to do that.
-sending_files():
- 
+
+**sending_files():**
+
 NOTE: Add the document in the documents folder.
 
 Would you file to send a Document file(yes/no): yes
 
-Enter the Document file name you want to send: attendance
-
-If the document file names are same then write the document name with extension attendance.txt or attendance.pdf
+>Enter the Document file name you want to send: attendance
+>If the document file names are same then write the document name with extension attendance.txt or attendance.pdf
