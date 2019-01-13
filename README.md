@@ -10,11 +10,13 @@
 > We can schedule Good Morning or Good Night messages with a nice Picture at a particular time to our loved ones. We can set timings. Suppose at 12 o'clock you want to wish your friend Happy Birthday so schedule your messages and sleep.
 
 ## Installation Required:
-    $ pip install -r requirements.txt
+    If you are using Python 2.7.13 use pip instead of pip3
+    
+    $ pip3 install -r requirements.txt
             OR
-    $ pip install selenium
-    $ pip install schedule
-    $ pip install PyAutoIt
+    $ pip3 install selenium
+    $ pip3 install schedule
+    $ pip3 install PyAutoIt
 **Platform for Windows:**
 
 > ChromeDriver used: If this version becomes outdated or gives problem download latest version from [Download Link](http://chromedriver.chromium.org/downloads).
