@@ -90,3 +90,5 @@ schedule.every().Friday.at("07:30").do(sender)
 schedule.every().day.at("08:30").do(sender)
 
 - You can make change these schedule days and time according to you. 
+
+[Link for video](https://youtu.be/W4nqQPT2HR8)
